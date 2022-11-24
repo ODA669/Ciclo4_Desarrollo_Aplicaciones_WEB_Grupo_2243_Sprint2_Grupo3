@@ -1,0 +1,70 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 1px 1px 0.5px black;
+}
+
+.fecha{
+    width : 150px; 
+}
+
+.dimensiones{
+    width: 50px;
+    border-radius: 10px;
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+    align-items: center;
+}
+
+h2{
+    text-align:center;
+  }
+  
+  h2 a {
+    color: rgb(50,50,50);
+    text-decoration: none;
+   }
+  
+  .form{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+  
+  
+  .form-container{
+    max-width:700px;
+    margin: 0 auto;
+  }
+  
+  .form-element {
+    display: block;
+    width: 80%;
+    margin: 1rem auto;
+    
+}
+
+.text{
+ width: 390px;
+ text-align: center;
+ align-items: center;
+ border-radius: 10px;
+}
+
+.label1{
+  width: 390px;  
+
+}
+
+.botón{
+    position: absolute;
+
+    top: 50%;
+}
